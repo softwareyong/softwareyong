@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <br>
 </div>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwareyong&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=softwareyong&show_icons=true">
