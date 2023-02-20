@@ -27,8 +27,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
     <br>
 </div>
-<br><br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
+<br><br>
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=softwareyong&layout=compact"> <br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=softwareyong&show_icons=true">
