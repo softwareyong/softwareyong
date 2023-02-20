@@ -14,8 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=softyong&fontSize=90" />
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=softyong&fontSize=90" />
+</div>
+    
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -28,4 +31,6 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=softwareyong&show_icons=true">
 </div>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324)
+</div>
