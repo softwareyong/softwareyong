@@ -28,5 +28,4 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=softwareyong&show_icons=true">
 </div>
 
-[![Solved.ac
-lyw0324](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324)
