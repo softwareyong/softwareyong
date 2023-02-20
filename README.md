@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=softyong&fontSize=90" />
 
-<img src="https://img.shields.io/badge/python-바탕색?style=flat&logo=#3776AB&logoColor=white"/>
+<img src="https://img.shields.io/badge/python-#3776A?style=flat&logo=#3776AB&logoColor=white"/>
