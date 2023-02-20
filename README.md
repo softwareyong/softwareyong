@@ -1,5 +1,5 @@
 <div align="center">
-### Hi friend's 👋
+Hello Friend's 👋
 </div>
     
 <!--
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=softyong&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongWoo&fontSize=90" />
 </div>
     
 <div align=center><h1>📚 STACKS</h1></div>
