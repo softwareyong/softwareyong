@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=softyong&fontSize=90" />
 
 <img src="https://img.shields.io/badge/python-#3776A?style=flat&logo=#3776AB&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
