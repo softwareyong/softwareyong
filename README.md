@@ -1,6 +1,7 @@
 <div align="center">
-  ##  꿈꾸는 청년에겐 작은 기회조자 
-  ##  얼마나 소중한지 알기에
+    <h2> 
+    꿈꾸는 청년에겐 작은 기회조자 
+    얼마나 소중한지 알기에
 </div>
     
 <!--
@@ -22,11 +23,15 @@ Here are some ideas to get you started:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongWoo&fontSize=90" />
 </div>
     
+<a href="https://softyong.tistory.com/"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+    
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-    <br>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right:10px;"/>
+<br>
 </div>
 <br><br>
 <div align="center">
