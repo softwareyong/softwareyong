@@ -16,13 +16,13 @@
 > 
 > 
     
-<div align=left><h2>👉 About_Me</h2></div>
-<div align="center">
+<div align=left><h2>About_Me 👈</h2></div>
+<div align="left">
 <a href="https://softyong.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
     
-<div align=center><h2>📚 STACKS</h1></div>
-<div align=center>
+<div align=left><h2>STACKS 📚</h1></div>
+<div align=left>
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
