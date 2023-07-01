@@ -3,7 +3,19 @@
     꿈꾸는 청년에겐 작은 기회조차 <br>
     얼마나 소중한지 알기에 
 </div>
-    
+
+
+##  Work experience 
+> (23.03 ~) 멋쟁이 사자처럼 at 상명대학교 11기 
+
+## prize :trophy:
+| prize    |   |   |
+|----------|---|---|
+| [kt주관] |   |   |
+|          |   |   |
+> 
+> 
+
 <!--
 **softwareyong/softwareyong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
