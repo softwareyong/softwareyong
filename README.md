@@ -15,11 +15,8 @@
 | 2023.03 ~ 2023.07 |      캡스톤 경진대회[대상]     |
 > 
 > 
-<div align="left">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=YongWoo&fontSize=90" />
-</div>
     
-<div align=center><h2>👉 About_Me</h2></div>
+<div align=left><h2>👉 About_Me</h2></div>
 <div align="center">
 <a href="https://softyong.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
