@@ -6,7 +6,7 @@
 
 
 ##  Work experience 
-> (23.03 ~) 멋쟁이사자처럼 11기 at 상명대학교 
+> (23.03 ~) 멋쟁이사자처럼 11기 at 상명대학교  
 
 ## prize :trophy:
 |       PERIOD      |              TITLE             |
