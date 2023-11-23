@@ -20,7 +20,7 @@
     
 <div align=left><h2>About_Me 👈</h2></div>
 <div align="left">
-<a href="https://softyong.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/></a>
+<a href="https://codewizard.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/></a>
 </div>
     
 <div align=left><h2>STACKS 📚</h1></div>
