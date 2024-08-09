@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td>Sangmyung Univ.</td>
-      <td><a href="https://codewizard.tistory.com/category/Project/%EC%83%81%EB%AA%85%EB%8C%80%20%EC%B6%95%EC%A0%9C%202023%20%22%EB%B9%84%EC%83%81%28%E9%A3%9B%E4%B8%8A%29%22">비상(飛上)</a></td>
+      <td><a href="https://codewizard.tistory.com/28">비상(飛上)</a></td>
       <td>Festival Web Page, Back-End Engineering</td>
       <td>2023.08 ~ 2023.09</td>
     </tr>
