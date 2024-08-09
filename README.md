@@ -5,8 +5,6 @@
   서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
 </div>
 
-<br/>
-
 <div align="center">
     <h2>📋 Projects & Careers</h2>
   <table>
@@ -30,7 +28,6 @@
     </tr>
   </table>
 </div>
-
 
 <div align="center">
   <h2>🛠 Development Stack</h2>
@@ -89,7 +86,7 @@
     </tr>
   </table>
 </div>
-<br/>
+
 
 <div align="center">
   <h2>🏅 Certificates & Rewards</h2>
@@ -114,8 +111,6 @@
     </tr>
   </table>
 </div>
-<br/>
-
 
 <div align="center">
   
