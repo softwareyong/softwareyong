@@ -98,13 +98,13 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">쿠팡맨</a></td>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰팀</a></td>
       <td>KT와 함께하는 AI경진대회</td>
       <td>최우수상[TOP3]</td>
       <td>2022.07 ~ 2022.09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/softwareyong/Capstone-Design">로드뷰팀</a></td>
+      <td><a href="https://github.com/softwareyong/Capstone-Design">쿠팡맨</a></td>
       <td>캡스톤 경진대회</td>
       <td>대상</td>
       <td>2023.03 ~  2023.07</td>
