@@ -1,40 +1,124 @@
 <div align="center">
-<!--     <h3> 
-    꿈꾸는 청년에겐 작은 기회조차 <br>
-    얼마나 소중한지 알기에  -->
+  <h2>About me</h2>
+  기술블로그, 노션 등 꾸준한 기록을 통해 성실함을 증명할 수 있습니다.<br/>
+  새로운 도전은 성장의 기회로 생각하기에 어떤 기술이던 도전하고 실행합니다.<br/>
+  서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
+    <h2>📋 Projects & Careers</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Project Name</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>Sangmyung Univ.</td>
+      <td><a href="https://github.com/softwareyong/Festival-Event-Server">비상(飛上)</a></td>
+      <td>Festival Web Page, Back-End Engineering</td>
+      <td>2023.08 ~ 2023.09</td>
+    </tr>
+    <tr>
+      <td>KakaoTech BootCamp</td>
+      <td><a href="https://github.com/Kakaotech-18-Ecommerce">골라골라</a></td>
+      <td>Project, Back-End Engineering</td>
+      <td>2024.08~ ing</td>
+    </tr>
+  </table>
 </div>
 
 
-##  Work experience 
-> (23.03 ~ 23.12) 멋쟁이사자처럼 11기 at 상명대학교
-
-> (23.09 ~ 23.09) 2023 상명대 축제사이트 "비상(飛上)" BE 제작
-
-## prize :trophy:
-|       PERIOD      |              TITLE             |
-|:-----------------:|:------------------------------:|
-| 2022.07 ~ 2022.09 | KT와 함께하는 AI경진대회[TOP3] |
-| 2023.03 ~ 2023.07 |      캡스톤 경진대회[대상]     |
-> 
-> 
-    
-<div align=left><h2>About_Me 👈</h2></div>
-<div align="left">
-<a href="https://codewizard.tistory.com/"><img src="https://img.shields.io/badge/tistory-F05138?style=flat-square&logo=tistory&logoColor=white"/></a>
+<div align="center">
+  <h2>🛠 Development Stack</h2>
+  <table>
+    <tr>
+      <td align="center">Backend</td>
+      <td>
+        <div align="center">
+          <img alt="Kotlin" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kotlin-Dark.svg" />
+          &nbsp;
+          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
+          &nbsp;
+          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
+          &nbsp;
+          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
+          &nbsp;
+          <img alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MongoDB.svg" />
+          &nbsp;
+          <img alt="Kafka" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Kafka.svg" />
+          <br/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Infrastructure</td>
+      <td>
+          <div>
+            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            &nbsp;
+            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
+            &nbsp;
+            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
+            &nbsp;
+            <br/>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Frontend & ETC</td>
+      <td>
+        <div>
+          <img alt="HTML" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/HTML.svg" />
+          &nbsp;
+          <img alt="CSS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/CSS.svg" />
+          &nbsp;
+          <img alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/JavaScript.svg" />
+          &nbsp;
+          <img alt="React" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/React-Dark.svg" />
+          &nbsp;
+          <img alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/NodeJS-Dark.svg" />
+          &nbsp;
+          <img alt="Redux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Redux.svg" />
+          <br/>
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
-    
-<div align=left><h2>STACKS 📚</h1></div>
-<div align=left>
-<img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-<br>
+<br/>
+
+<div align="center">
+  <h2>🏅 Certificates & Rewards</h2>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Certificate/Reward Name</th>
+      <th>Score/Grade</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">쿠팡맨</a></td>
+      <td>KT와 함께하는 AI경진대회</td>
+      <td>최우수상[TOP3]</td>
+      <td>2022.07 ~ 2022.09</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/softwareyong/Capstone-Design">로드뷰팀</a></td>
+      <td>캡스톤 경진대회</td>
+      <td>대상</td>
+      <td>2023.03 ~  2023.07</td>
+    </tr>
+  </table>
 </div>
-<br><br>
+<br/>
 
 
-
--<div align="left">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
--</div>
+<div align="center">
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
+ </div>
+ 
