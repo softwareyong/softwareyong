@@ -24,7 +24,7 @@
       <td>KakaoTech BootCamp</td>
       <td><a href="https://github.com/Kakaotech-18-Ecommerce">골라골라</a></td>
       <td>Project, Back-End Engineering</td>
-      <td>2024.08 ~ ing</td>
+      <td>2024.08 ~ 2024.09</td>
     </tr>
   </table>
 </div>
