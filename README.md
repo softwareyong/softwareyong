@@ -26,6 +26,12 @@
       <td>Project, Back-End Engineering</td>
       <td>2024.08 ~ 2024.09</td>
     </tr>
+    <tr>
+      <td>KakaoTech BootCamp</td>
+      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취뽀Lab</a></td>
+      <td>Project, Back-End Engineering</td>
+      <td>2024.10 ~ ing</td>
+    </tr>
   </table>
 </div>
 
