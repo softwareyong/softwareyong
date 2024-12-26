@@ -42,11 +42,13 @@
       <td align="center">Backend</td>
       <td>
         <div>
-          <img alt="SpringBoot" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Spring-Dark.svg" />
+          <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Java-Dark.svg" />
+          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/MySQL-Dark.svg" />
+          <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
+          &nbsp;
+          <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/cbb31ada-004c-4a24-8979-425ab469c833" />
           &nbsp;
           <br/>
         </div>
@@ -56,11 +58,9 @@
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/AWS-Dark.svg" />
+            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            <img alt="Nginx" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Nginx.svg" />
-            &nbsp;
-            <img alt="Linux" width="30px" src="https://raw.githubusercontent.com/zzangjyj0818/Github_User_Content/250d0ac27c7cfd8418823d26a74822e206f28d13/Linux-Dark.svg" />
+            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
             &nbsp;
             <br/>
         </div>
