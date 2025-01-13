@@ -1,8 +1,9 @@
 <div align="center">
   <h2>About me</h2>
-  기술블로그, 노션 등 꾸준한 기록을 통해 성실함을 증명할 수 있습니다.<br/>
-  새로운 도전은 성장의 기회로 생각하기에 어떤 기술이던 도전하고 실행합니다.<br/>
-  서버 이해도를 높이기 위해서 스프링 프레임워크 공부 뿐만 아니라 CS기초를 쌓기 위해 노력하고 있습니다.<br/><br/>
+  4개의 타 학과 수업을 들으며 AI, 웹, 임베디드처럼 다양한 기술을 도전하고 실행했습니다. <br/>
+  기술블로그, 노션의 1년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
+  
+  
 </div>
 
 <div align="center">
@@ -97,6 +98,7 @@
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
  </div>
 
+<!--
  <div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
@@ -106,4 +108,6 @@
 />
 </a>
 </div>
+-->
+
  
