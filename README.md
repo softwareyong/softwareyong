@@ -1,7 +1,7 @@
 <div align="center">
   <h2>About me</h2>
-  3개의 타 학과 수업을 들으며 AI, 웹, 임베디드처럼 다양한 기술을 도전하고 실행했습니다. <br/>
-  기술블로그, 노션의 1년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
+  4개의 학과 수업을 수강하며 AI, 웹, 임베디드처럼 다양한 기술을 도전하고 실행했습니다. <br/>
+  기술블로그, 노션의 2년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
   
   
 </div>
