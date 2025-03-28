@@ -2,8 +2,6 @@
   <h2>About me</h2>
   4개의 학과 수업을 수강하며 AI, 웹, 임베디드처럼 다양한 기술을 도전하고 실행했습니다. <br/>
   기술블로그, 노션의 2년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
-  
-  
 </div>
 
 <div align="center">
@@ -57,13 +55,22 @@
             &nbsp;
             <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
             &nbsp;
-            <br/>
+            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/04cf5bcd-9679-4b54-af31-4e8273c38d28" />
         </div>
-      </td>
+      </td>  
     </tr>
-
-    
-
+  
+  <tr>
+    <td align="center">Test</td>  
+    <td>
+      <div>
+        <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
+        &nbsp;
+        <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
+        &nbsp;
+      </div>
+    </td>
+  </tr>
     
   </table>
 </div>
