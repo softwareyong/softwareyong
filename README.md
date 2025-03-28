@@ -11,19 +11,19 @@
   <table>
     <tr>
       <th>Organization</th>
-      <th>Project Name</th>
+      <th>Project</th>
       <th>Role</th>
       <th>Period</th>
     </tr>
     <tr>
       <td>Sangmyung Univ.</td>
-      <td><a href="https://codewizard.tistory.com/28">비상(飛上)</a></td>
+      <td><a href="https://codewizard.tistory.com/28">상명대학교 축제사이트</a></td>
       <td>Project, Back-End Engineering</td>
       <td>2023.08 ~ 2023.09</td>
     </tr>
     <tr>
       <td>KakaoTech BootCamp</td>
-      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취뽀Lab</a></td>
+      <td><a href="https://github.com/ktb-cpplab/cpplab-be">채용공고 기반 RAG 프로젝트 추천 SNS 서비스</a></td>
       <td>Project, Back-End Engineering</td>
       <td>2024.10 ~ 2024.12</td>
     </tr>
@@ -73,20 +73,20 @@
   <h2>🏅 Certificates & Rewards</h2>
   <table>
     <tr>
-      <th>Organization</th>
-      <th>Certificate/Reward Name</th>
-      <th>Score/Grade</th>
+      <th>Project</th>
+      <th>Certificate</th>
+      <th>Score</th>
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰팀</a></td>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰를 이용한 도로 시설물 관리</a></td>
       <td>KT와 함께하는 AI경진대회</td>
       <td>최우수상[TOP3]</td>
       <td>2022.07 ~ 2022.09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/softwareyong/Capstone-Design">쿠팡맨</a></td>
-      <td>캡스톤 경진대회</td>
+      <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
+      <td>캡스톤디자인 경진대회</td>
       <td>대상</td>
       <td>2023.03 ~  2023.07</td>
     </tr>
