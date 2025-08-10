@@ -94,7 +94,7 @@
     <tr>
       <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
       <td>캡스톤디자인 경진대회</td>
-      <td>대상</td>
+      <td>대상 (1등/63팀)</td>
       <td>2023.03 ~  2023.07</td>
     </tr>
   </table>
