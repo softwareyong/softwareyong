@@ -23,7 +23,7 @@
       <td>KakaoTech BootCamp</td>
       <td><a href="https://github.com/ktb-cpplab/cpplab-be">채용공고 기반 RAG 프로젝트 추천 SNS 서비스</a></td>
       <td>Project, Back-End Engineering</td>
-      <td>2024.10 ~ 2024.12</td>
+      <td>2024.10 ~ 2025.01</td>
     </tr>
   </table>
 </div>
