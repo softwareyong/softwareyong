@@ -88,7 +88,7 @@
     <tr>
       <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰를 이용한 도로 시설물 관리</a></td>
       <td>KT와 함께하는 AI경진대회</td>
-      <td>최우수상[TOP3]</td>
+      <td> 본선 최우수상</td>
       <td>2022.07 ~ 2022.09</td>
     </tr>
     <tr>
