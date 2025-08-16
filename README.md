@@ -37,11 +37,13 @@
         <div>
           <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
+          <img alt="SpringBatch" width="30px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
+          &nbsp;
           <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
           &nbsp;
           <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
-          <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/cbb31ada-004c-4a24-8979-425ab469c833" />
+          <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
           &nbsp;
           <br/>
         </div>
@@ -55,7 +57,7 @@
             &nbsp;
             <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/04cf5bcd-9679-4b54-af31-4e8273c38d28" />
+            <img alt="Jenkins" width="30px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
         </div>
       </td>  
     </tr>
