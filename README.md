@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-    <h2>📋 Projects & Careers</h2>
+    <h2>📋 Careers</h2>
   <table>
     <tr>
       <th>Organization</th>
