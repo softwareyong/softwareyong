@@ -32,6 +32,14 @@
   <h2>🛠 Development Stack</h2>
   <table>
     <tr>
+      <td align="center">Frontend</td>
+      <td>
+          <div>
+            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/598635d5-2796-4dcf-a7cc-ab8cc51bcb7e" />
+        </div>
+      </td>  
+    </tr>
+    <tr>
       <td align="center">Backend</td>
       <td>
         <div>
