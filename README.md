@@ -35,7 +35,7 @@
       <td align="center">Frontend</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/598635d5-2796-4dcf-a7cc-ab8cc51bcb7e" />
+            <img alt="ReactNative" width="40px" src="https://github.com/user-attachments/assets/cabfe2b4-acd6-4237-bacf-142ff11d7055" />
         </div>
       </td>  
     </tr>
@@ -43,15 +43,15 @@
       <td align="center">Backend</td>
       <td>
         <div>
-          <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
+          <img alt="SpringBoot" width="40px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
           &nbsp;
-          <img alt="SpringBatch" width="30px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
+          <img alt="SpringBatch" width="40px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
           &nbsp;
-          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
+          <img alt="Java" width="40px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
           &nbsp;
-          <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
+          <img alt="MySQL" width="40px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
           &nbsp;
-          <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
+          <img alt="Redis" width="40px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
           &nbsp;
           <br/>
         </div>
@@ -61,11 +61,11 @@
       <td align="center">Infrastructure</td>
       <td>
           <div>
-            <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
+            <img alt="AWS" width="40px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
+            <img alt="Linux" width="40px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
             &nbsp;
-            <img alt="Jenkins" width="30px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
+            <img alt="Jenkins" width="40px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
         </div>
       </td>  
     </tr>
@@ -74,9 +74,9 @@
     <td align="center">Test</td>  
     <td>
       <div>
-        <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
+        <img alt="Linux" width="40px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
         &nbsp;
-        <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
+        <img alt="Linux" width="40px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
         &nbsp;
       </div>
     </td>
