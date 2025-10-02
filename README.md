@@ -32,6 +32,17 @@
   <h2>🛠 Development Stack</h2>
   <table>
     <tr>
+      <td align="center">Language</td>
+      <td>
+          <div>
+            <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/d90fdb45-8f1f-4694-aa1a-324ce710bc4e" />
+            <img alt="C" width="30px" src="https://github.com/user-attachments/assets/f19d04ec-76c7-4226-9b1e-7bc63430834a" />
+            <img alt="Python" width="30px" src="https://github.com/user-attachments/assets/0da11989-8f9e-4858-978f-169fbd5a48d9" />
+            <img alt="javascript" width="30px" src="https://github.com/user-attachments/assets/64a19acd-d829-46ef-bd57-b4a6a3b8fa4f" />
+      </td>  
+    </tr>
+    <tr>
+    <tr>
       <td align="center">Frontend</td>
       <td>
           <div>
