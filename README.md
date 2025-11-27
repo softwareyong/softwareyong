@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>About me</h2>
+  <h2>😊 Hi I'm Yongwoo Lee</h2>
   4개의 학과 수업을 수강하며 AI, 웹, 임베디드처럼 다양한 기술을 도전하고 실행했습니다. <br/>
   기술블로그, 노션의 2년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
 </div>
@@ -9,21 +9,38 @@
   <table>
     <tr>
       <th>Organization</th>
+      <th>Category</th>
       <th>Project</th>
       <th>Role</th>
       <th>Period</th>
     </tr>
     <tr>
+      <td>KakaoTech BootCamp</td>
+      <td>직무교육</td>
+      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취준생 맞춤 프로젝트 추천 서비스</a></td>
+      <td>Back-End</td>
+      <td>2024.10 ~ 2025.01(123일)</td>
+    </tr>
+    <tr>
+      <td>캡스톤디자인 경진대회</td>
+      <td>대회 - 대상(1등/63팀)</td>
+      <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
+      <td>Server, MQTT</td>
+      <td>2023.03 ~  2023.07(110일)</td>
+    </tr>
+    <tr>
       <td>Sangmyung Univ.</td>
+      <td>동아리</td>
       <td><a href="https://codewizard.tistory.com/28">상명대학교 축제사이트</a></td>
-      <td>Back-End Engineering</td>
+      <td>Back-End</td>
       <td>2023.08 ~ 2023.09(44일)</td>
     </tr>
     <tr>
-      <td>KakaoTech BootCamp</td>
-      <td><a href="https://github.com/ktb-cpplab/cpplab-be">채용공고 기반 RAG 프로젝트 추천 SNS 서비스</a></td>
-      <td>Back-End Engineering</td>
-      <td>2024.10 ~ 2025.01(123일)</td>
+      <td>KT와 함께하는 AI경진대회</td>
+      <td>대회 - 최우수상</td>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰를 이용한 도로 시설물 관리</a></td>
+      <td>yolov5 AI 개발</td>
+      <td>2022.07 ~ 2022.09(56일)</td>
     </tr>
   </table>
 </div>
@@ -88,31 +105,6 @@
     </td>
   </tr>
     
-  </table>
-</div>
-
-
-<div align="center">
-  <h2>🏅 Certificates & Rewards</h2>
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Certificate</th>
-      <th>Score</th>
-      <th>Period</th>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰를 이용한 도로 시설물 관리</a></td>
-      <td>KT와 함께하는 AI경진대회</td>
-      <td> 본선 최우수상</td>
-      <td>2022.07 ~ 2022.09(56일)</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
-      <td>캡스톤디자인 경진대회</td>
-      <td>대상 (1등/63팀)</td>
-      <td>2023.03 ~  2023.07(110일)</td>
-    </tr>
   </table>
 </div>
 
