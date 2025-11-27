@@ -17,7 +17,7 @@
     <tr>
       <td>KakaoTech BootCamp</td>
       <td>직무교육</td>
-      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취준생 맞춤 프로젝트 추천 서비스</a></td>
+      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취업 맞춤 프로젝트 추천 서비스</a></td>
       <td>Back-End</td>
       <td>2024.10 ~ 2025.01(123일)</td>
     </tr>
