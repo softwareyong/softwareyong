@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>캡스톤디자인 경진대회</td>
-      <td>대회 - 대상(1등/63팀)</td>
+      <td>대회/대상(1등/63팀)</td>
       <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
       <td>Server, MQTT</td>
       <td>2023.03 ~  2023.07(110일)</td>
@@ -37,8 +37,8 @@
     </tr>
     <tr>
       <td>KT와 함께하는 AI경진대회</td>
-      <td>대회 - 최우수상</td>
-      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰를 이용한 도로 시설물 관리</a></td>
+      <td>대회/최우수상</td>
+      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰 기반 도로 시설물 관리</a></td>
       <td>yolov5 AI 개발</td>
       <td>2022.07 ~ 2022.09(56일)</td>
     </tr>
