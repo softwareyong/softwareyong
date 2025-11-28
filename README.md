@@ -1,7 +1,10 @@
 <div align="center">
-  <h2>😊 Hi I'm Yongwoo Lee</h2>
-  4개의 학과 수업을 수강하며 AI, 웹, 보안 다양한 기술을 도전하고 실행했습니다. <br/>
-  기술블로그, 노션의 2년의 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">꾸준한 기록</a>을 통해 성실함을 증명할 수 있습니다. <br/>
+  <h2>😊 Hi I'm Yongwoo Lee</h2>  
+  #4개 학과 수강
+  #WAF로 독일 스캐닝 공격 식별 <br/>
+  #백엔드, 클라우드 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">좋아해요</a>
+  #RFC 문서 참고하며 <a href="https://codewizard.tistory.com/category/Solo%20Project/%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%2BJWT"> 로그인 </a>만들어요 
+  
 </div>
 
 <div align="center">
