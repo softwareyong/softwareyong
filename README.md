@@ -18,6 +18,20 @@
       <th>Period</th>
     </tr>
     <tr>
+      <td>흩어진 링크·정보 저장 서비스</a></td>
+       <td>Back-End</td>
+      <td>사이드 프로젝트</td>
+      <td>팀두링크</td>
+      <td>2025.09 ~ ing</td>
+    </tr>
+    <tr>
+      <td>교대 근무표 앱</a></td>
+       <td>Full-stack</td>
+      <td>사이드 프로젝트</td>
+      <td>개인</td>
+      <td>2025.11 ~ ing</td>
+    </tr>
+    <tr>
       <td><a href="https://github.com/ktb-cpplab/cpplab-be">취업 맞춤 프로젝트 추천 서비스</a></td>
        <td>Back-End</td>
       <td>KakaoTech BootCamp</td>
