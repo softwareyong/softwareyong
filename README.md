@@ -27,7 +27,7 @@
     <tr>
       <td>교대 근무표 앱</a></td>
        <td>Full-stack</td>
-      <td>사이드 프로젝트</td>
+      <td>개인</td>
       <td>개인</td>
       <td>2025.11 ~ ing</td>
     </tr>
