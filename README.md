@@ -1,8 +1,8 @@
 <div align="center">
   <h2>😊 Hi I'm Yongwoo Lee</h2>  
-  #4개 학과 수강
-  #WAF로 독일 스캐닝 공격 식별 <br/>
-  #백엔드, 클라우드 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">좋아해요</a>
+  #4개 IT 학과 수강
+  #백엔드, 클라우드 <a href="https://codewizard.notion.site/14e8f3e58a9d80bab4d7dc97e05a702e?pvs=73">좋아해요</a> <br/>
+  #WAF로 독일 스캐닝 공격 식별 
   #RFC 문서 참고하며 <a href="https://codewizard.tistory.com/category/Solo%20Project/%EC%86%8C%EC%85%9C%EB%A1%9C%EA%B7%B8%EC%9D%B8%2BJWT"> 로그인 </a>만들어요 
   
 </div>
