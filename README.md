@@ -39,10 +39,10 @@
       <td>2023.03 ~  2023.07(110일)</td>
     </tr>
     <tr>
-      <td><a href="https://codewizard.tistory.com/28">상명대학교 축제사이트</a></td>
+      <td><a href="https://codewizard.tistory.com/28">대학교 축제사이트</a></td>
       <td>Back-End</td>
       <td>동아리 / DAU 800명</td>
-      <td>Sangmyung Univ.</td>
+      <td>개발동아리</td>
       <td>2023.08 ~ 2023.09(44일)</td>
     </tr>
     <tr>
