@@ -115,8 +115,6 @@
 
 <div align="center">
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyw0324)](https://solved.ac/lyw0324/)
-
 <!--
  <div align="center">
 <a href="https://github.com/devxb/gitanimals">
