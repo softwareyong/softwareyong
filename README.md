@@ -13,7 +13,7 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>흩어진 링크·정보 저장 서비스</a></td>
+      <td><a href="https://play.google.com/store/apps/details?id=com.teamdolink.dolink&hl=ko">흩어진 링크·정보 저장 서비스</a></td>
        <td>Back-End</td>
       <td>사이드 프로젝트</td>
       <td>팀두링크</td>
