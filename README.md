@@ -17,7 +17,7 @@
        <td>Back-End</td>
       <td>사이드 프로젝트</td>
       <td>팀두링크</td>
-      <td>2025.09 ~ ing</td>
+      <td>2025.09 ~ 2026.04(240일)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/ktb-cpplab/cpplab-be">취업 맞춤 프로젝트 추천 서비스</a></td>
