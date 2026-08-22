@@ -53,28 +53,20 @@
             <img alt="C" width="30px" src="https://github.com/user-attachments/assets/f19d04ec-76c7-4226-9b1e-7bc63430834a" />
             &nbsp;
             <img alt="Python" width="30px" src="https://github.com/user-attachments/assets/0da11989-8f9e-4858-978f-169fbd5a48d9" />
+            
           </div>
       </td>
     </tr>
     <tr>
-      <td align="center">Backend</td>
-      <td>
-          <div>
-            <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
-            &nbsp;
-            <img alt="SpringBatch" width="30px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
-            &nbsp;
-            <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
-          </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Infrastructure</td>
+      <td align="center">Infrastructure &amp; IaC</td>
       <td>
           <div>
             <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
+            
+            <img alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
+            &nbsp;
+            <img alt="AWS CDK" width="30px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
           </div>
       </td>
     </tr>
@@ -101,16 +93,6 @@
             <img alt="Jenkins" width="30px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
             &nbsp;
             <img alt="n8n" width="30px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
-          </div>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">IaC</td>
-      <td>
-          <div>
-            <img alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
-            &nbsp;
-            <img alt="AWS CDK" width="30px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
           </div>
       </td>
     </tr>
