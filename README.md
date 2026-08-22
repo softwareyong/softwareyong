@@ -58,31 +58,23 @@
       <td>
           <div>
             <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/d90fdb45-8f1f-4694-aa1a-324ce710bc4e" />
-             &nbsp;
+            &nbsp;
             <img alt="C" width="30px" src="https://github.com/user-attachments/assets/f19d04ec-76c7-4226-9b1e-7bc63430834a" />
-             &nbsp;
+            &nbsp;
             <img alt="Python" width="30px" src="https://github.com/user-attachments/assets/0da11989-8f9e-4858-978f-169fbd5a48d9" />
-             &nbsp;
-            <img alt="javascript" width="30px" src="https://github.com/user-attachments/assets/64a19acd-d829-46ef-bd57-b4a6a3b8fa4f" />
-             &nbsp;
-      </td>  
+          </div>
+      </td>
     </tr>
     <tr>
       <td align="center">Backend</td>
       <td>
-        <div>
-          <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
-          &nbsp;
-          <img alt="SpringBatch" width="30px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
-          &nbsp;
-          <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/bdf61e6e-be18-4b93-8872-ef207d82a3b3" />
-          &nbsp;
-          <img alt="MySQL" width="30px" src="https://github.com/user-attachments/assets/aa76d67d-2ad3-43e7-81b0-7a249eaffd79" />
-          &nbsp;
-          <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
-          &nbsp;
-          <br/>
-        </div>
+          <div>
+            <img alt="SpringBoot" width="30px" src="https://github.com/user-attachments/assets/637cb8c2-4c4e-4157-bacb-3fb128f04455" />
+            &nbsp;
+            <img alt="SpringBatch" width="30px" src="https://github.com/user-attachments/assets/29e0136c-2633-4efb-b708-9112cb2fce1d" />
+            &nbsp;
+            <img alt="Redis" width="30px" src="https://github.com/user-attachments/assets/36d1e300-c565-471f-b610-57a886fc0762" />
+          </div>
       </td>
     </tr>
     <tr>
@@ -92,18 +84,34 @@
             <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
             <img alt="Linux" width="30px" src="https://github.com/user-attachments/assets/326519fd-1231-41a2-b70d-81fdf942f5e4" />
-            &nbsp;
-            <img alt="Jenkins" width="30px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
-            &nbsp;
+          </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Container &amp; Registry</td>
+      <td>
+          <div>
             <img alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
             &nbsp;
             <img alt="Kubernetes" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" />
             &nbsp;
-            <img alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+            <img alt="Harbor" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/harbor/harbor-original.svg" />
             &nbsp;
-            <img alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
-        </div>
-      </td>  
+            <img alt="Trivy" width="30px" src="https://cdn.simpleicons.org/trivy/1904DA" />
+          </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">CI/CD &amp; Automation</td>
+      <td>
+          <div>
+            <img alt="GitLab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+            &nbsp;
+            <img alt="Jenkins" width="30px" src="https://github.com/user-attachments/assets/87b6e4a8-b8ba-450b-aaac-a68ec0c63dd7" />
+            &nbsp;
+            <img alt="n8n" width="30px" src="https://cdn.simpleicons.org/n8n/EA4B71" />
+          </div>
+      </td>
     </tr>
     <tr>
       <td align="center">IaC</td>
@@ -111,179 +119,80 @@
           <div>
             <img alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
             &nbsp;
-            <img alt="AWS CDK" width="30px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
-        </div>
+            <img alt="AWS CDK" width="30px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
+          </div>
       </td>
     </tr>
-  
-  <tr>
-    <td align="center">Test</td>  
-    <td>
-      <div>
-        <img alt="jmeter" width="30px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
-        &nbsp;
-        <img alt="ngrinder" width="30px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
-        &nbsp;
-      </div>
-    </td>
-  </tr>
-    
+    <tr>
+      <td align="center">Observability</td>
+      <td>
+          <div>
+            <img alt="Grafana" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" />
+            &nbsp;
+            <img alt="Grafana Alloy" width="30px" src="https://cdn.jsdelivr.net/gh/grafana/alloy@main/docs/sources/assets/alloy_icon_orange.svg" />
+            &nbsp;
+            <img alt="Loki" width="30px" src="https://cdn.jsdelivr.net/gh/grafana/loki@main/docs/sources/logo.png" />
+            &nbsp;
+            <img alt="Prometheus" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-original.svg" />
+          </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Test</td>
+      <td>
+          <div>
+            <img alt="JMeter" width="30px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
+            &nbsp;
+            <img alt="nGrinder" width="30px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
+          </div>
+      </td>
+    </tr>
   </table>
 </div>
-
 <div align="center">
-  <h2>☁️ AWS</h2>
+  <h2>
+    <img alt="AWS" width="28px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-group/AWSCloudlogo.svg" />
+    AWS
+  </h2>
   <table>
     <tr>
-      <td align="center"><b>Multi-Account</b></td>
-      <td>
-        <div>
-          <img alt="AWS Organizations" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSOrganizations.svg" />
-          <sub>AWS Organizations</sub>
-          &nbsp;&nbsp;
-          <img alt="Control Tower" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSControlTower.svg" />
-          <sub>Control Tower</sub>
-          &nbsp;&nbsp;
-          <img alt="IAM Identity Center" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSIAMIdentityCenter.svg" />
-          <sub>IAM Identity Center</sub>
-        </div>
-      </td>
+      <td align="center"><b>Multi-Account Management</b></td>
+      <td>AWS Organizations · Control Tower · IAM Identity Center</td>
     </tr>
     <tr>
       <td align="center"><b>Compute</b></td>
-      <td>
-        <div>
-          <img alt="EC2" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonEC2.svg" />
-          <sub>EC2</sub>
-          &nbsp;&nbsp;
-          <img alt="Lambda" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSLambda.svg" />
-          <sub>Lambda</sub>
-        </div>
-      </td>
+      <td>EC2 · Lambda</td>
     </tr>
     <tr>
       <td align="center"><b>Network</b></td>
-      <td>
-        <div>
-          <img alt="Site-to-Site VPN" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSSitetoSiteVPN.svg" />
-          <sub>Site-to-Site VPN</sub>
-          &nbsp;&nbsp;
-          <img alt="Transit Gateway" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSTransitGateway.svg" />
-          <sub>Transit Gateway</sub>
-          &nbsp;&nbsp;
-          <img alt="VPN Gateway" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/resource/AmazonVPCVPNGateway.svg" />
-          <sub>VPN Gateway</sub>
-          &nbsp;&nbsp;
-          <img alt="NAT Gateway" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/resource/AmazonVPCNATGateway.svg" />
-          <sub>NAT Gateway</sub>
-        </div>
-      </td>
+      <td>Site-to-Site VPN · TGW · VGW · NAT Gateway</td>
     </tr>
     <tr>
       <td align="center"><b>Security</b></td>
-      <td>
-        <div>
-          <img alt="Security Hub" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSSecurityHub.svg" />
-          <sub>Security Hub</sub>
-          &nbsp;&nbsp;
-          <img alt="GuardDuty" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonGuardDuty.svg" />
-          <sub>GuardDuty</sub>
-          &nbsp;&nbsp;
-          <img alt="Macie" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonMacie.svg" />
-          <sub>Macie</sub>
-          &nbsp;&nbsp;
-          <img alt="Inspector" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonInspector.svg" />
-          <sub>Inspector</sub>
-          &nbsp;&nbsp;
-          <img alt="WAF" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSWAF.svg" />
-          <sub>WAF</sub>
-          &nbsp;&nbsp;
-          <img alt="Network Firewall" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSNetworkFirewall.svg" />
-          <sub>Network Firewall</sub>
-          &nbsp;&nbsp;
-          <img alt="Secrets Manager" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSSecretsManager.svg" />
-          <sub>Secrets Manager</sub>
-        </div>
-      </td>
+      <td>Security Hub · GuardDuty · Macie · Inspector · WAF · Network Firewall · Secrets Manager</td>
     </tr>
     <tr>
       <td align="center"><b>Monitoring</b></td>
-      <td>
-        <div>
-          <img alt="CloudWatch" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonCloudWatch.svg" />
-          <sub>CloudWatch</sub>
-          &nbsp;&nbsp;
-          <img alt="Systems Manager" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSSystemsManager.svg" />
-          <sub>Systems Manager</sub>
-        </div>
-      </td>
+      <td>CloudWatch · Systems Manager</td>
     </tr>
     <tr>
-      <td align="center"><b>Storage & Backup</b></td>
-      <td>
-        <div>
-          <img alt="Amazon S3" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonSimpleStorageService.svg" />
-          <sub>Amazon S3</sub>
-          &nbsp;&nbsp;
-          <img alt="AWS Backup" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSBackup.svg" />
-          <sub>AWS Backup</sub>
-        </div>
-      </td>
+      <td align="center"><b>Storage &amp; Backup</b></td>
+      <td>Amazon S3 · AWS Backup</td>
     </tr>
     <tr>
       <td align="center"><b>Audit</b></td>
-      <td>
-        <div>
-          <img alt="CloudTrail" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCloudTrail.svg" />
-          <sub>CloudTrail</sub>
-          &nbsp;&nbsp;
-          <img alt="Config" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSConfig.svg" />
-          <sub>Config</sub>
-        </div>
-      </td>
+      <td>CloudTrail · Config</td>
     </tr>
     <tr>
       <td align="center"><b>DevOps</b></td>
-      <td>
-        <div>
-          <img alt="AWS CDK" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
-          <sub>AWS CDK</sub>
-          &nbsp;&nbsp;
-          <img alt="CodePipeline" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCodePipeline.svg" />
-          <sub>CodePipeline</sub>
-          &nbsp;&nbsp;
-          <img alt="CodeBuild" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCodeBuild.svg" />
-          <sub>CodeBuild</sub>
-          &nbsp;&nbsp;
-          <img alt="CodeDeploy" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSCodeDeploy.svg" />
-          <sub>CodeDeploy</sub>
-        </div>
-      </td>
+      <td>AWS CDK · CodePipeline · CodeBuild · CodeDeploy</td>
     </tr>
     <tr>
       <td align="center"><b>ETL</b></td>
-      <td>
-        <div>
-          <img alt="MWAA" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonManagedWorkflowsforApacheAirflow.svg" />
-          <sub>MWAA</sub>
-          &nbsp;&nbsp;
-          <img alt="Glue" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSGlue.svg" />
-          <sub>Glue</sub>
-          &nbsp;&nbsp;
-          <img alt="Athena" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AmazonAthena.svg" />
-          <sub>Athena</sub>
-          &nbsp;&nbsp;
-          <img alt="DMS" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSDatabaseMigrationService.svg" />
-          <sub>DMS</sub>
-          &nbsp;&nbsp;
-          <img alt="Step Functions" width="26px" src="https://cdn.jsdelivr.net/npm/aws-icons@3.3.0/icons/architecture-service/AWSStepFunctions.svg" />
-          <sub>Step Functions</sub>
-        </div>
-      </td>
+      <td>MWAA · Glue · Athena · DMS · Step Functions</td>
     </tr>
   </table>
 </div>
-
 <div align="center">
 
 <!--
