@@ -53,7 +53,6 @@
             <img alt="C" width="30px" src="https://github.com/user-attachments/assets/f19d04ec-76c7-4226-9b1e-7bc63430834a" />
             &nbsp;
             <img alt="Python" width="30px" src="https://github.com/user-attachments/assets/0da11989-8f9e-4858-978f-169fbd5a48d9" />
-            
           </div>
       </td>
     </tr>
@@ -63,7 +62,6 @@
           <div>
             <img alt="AWS" width="30px" src="https://github.com/user-attachments/assets/251c8aa8-b2b5-43ce-8342-258e6e297ca0" />
             &nbsp;
-            
             <img alt="Terraform" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" />
             &nbsp;
             <img alt="AWS CDK" width="30px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-service/AWSCloudDevelopmentKit.svg" />
