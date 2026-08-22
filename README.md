@@ -38,20 +38,6 @@
       <td>캡스톤디자인 경진대회</td>
       <td>2023.03 ~  2023.07(110일)</td>
     </tr>
-    <tr>
-      <td><a href="https://codewizard.tistory.com/28">대학교 축제사이트</a></td>
-      <td>Back-End</td>
-      <td>동아리 / DAU 800명</td>
-      <td>개발동아리</td>
-      <td>2023.08 ~ 2023.09(44일)</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/softwareyong/kt_al_road_facility_maintenance">로드뷰 기반 도로 시설물 관리</a></td>
-      <td>yolov5 AI</td>
-      <td>대회 / 최우수상</td>
-      <td>KT와 함께하는 AI경진대회</td>
-      <td>2022.07 ~ 2022.09(56일)</td>
-    </tr>
   </table>
 </div>
 
