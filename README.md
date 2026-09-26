@@ -87,50 +87,6 @@
   </table>
 </div>
 <div align="center">
-  <h2>
-    <img alt="AWS" width="28px" src="https://cdn.jsdelivr.net/npm/aws-icons@latest/icons/architecture-group/AWSCloudlogo.svg" />
-    AWS
-  </h2>
-  <table>
-    <tr>
-      <td align="center"><b>Multi-Account Management</b></td>
-      <td>AWS Organizations · Control Tower · IAM Identity Center</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Compute</b></td>
-      <td>EC2 · Lambda</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Network</b></td>
-      <td>Site-to-Site VPN · TGW · VGW · NAT Gateway</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Security</b></td>
-      <td>Security Hub · GuardDuty · Macie · Inspector · WAF · Network Firewall · Secrets Manager</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Monitoring</b></td>
-      <td>CloudWatch · Systems Manager</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Storage &amp; Backup</b></td>
-      <td>Amazon S3 · AWS Backup</td>
-    </tr>
-    <tr>
-      <td align="center"><b>Audit</b></td>
-      <td>CloudTrail · Config</td>
-    </tr>
-    <tr>
-      <td align="center"><b>DevOps</b></td>
-      <td>AWS CDK · CodePipeline · CodeBuild · CodeDeploy</td>
-    </tr>
-    <tr>
-      <td align="center"><b>ETL</b></td>
-      <td>MWAA · Glue · Athena · DMS · Step Functions</td>
-    </tr>
-  </table>
-</div>
-<div align="center">
 
 <!--
  <div align="center">
