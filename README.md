@@ -8,40 +8,6 @@
 </div>
 
 <div align="center">
-    <h2>📋 Careers</h2>
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Role</th>
-      <th>Category</th>
-      <th>Organization</th>
-      <th>Period</th>
-    </tr>
-    <tr>
-      <td><a href="https://play.google.com/store/apps/details?id=com.teamdolink.dolink&hl=ko">흩어진 링크·정보 저장 서비스</a></td>
-       <td>Back-End</td>
-      <td>사이드 프로젝트</td>
-      <td>팀두링크</td>
-      <td>2025.09 ~ 2026.04(240일)</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/ktb-cpplab/cpplab-be">취업 맞춤 프로젝트 추천 서비스</a></td>
-       <td>Back-End</td>
-      <td>KakaoTech BootCamp</td>
-      <td>직무교육</td>
-      <td>2024.10 ~ 2025.01(123일)</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/softwareyong/Capstone-Design">AGV 물류 자동화 시스템</a></td>
-      <td>Server, MQTT</td>
-      <td>대회 / 대상(1등/63팀)</td>
-      <td>캡스톤디자인 경진대회</td>
-      <td>2023.03 ~  2023.07(110일)</td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
   <h2>🛠 Development Stack</h2>
   <table>
     <tr>
