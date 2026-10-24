@@ -64,26 +64,6 @@
           </div>
       </td>
     </tr>
-    <tr>
-      <td align="center">Test</td>
-      <td>
-          <div>
-            <img alt="JMeter" width="30px" src="https://github.com/user-attachments/assets/c860e2d9-648b-4e3b-b9a2-ec9661556aa6" />
-            &nbsp;
-            <img alt="nGrinder" width="30px" src="https://github.com/user-attachments/assets/fce0bd01-7247-4759-a3c7-f78a69c92463" />
-          </div>
-      </td>
-    </tr>
-      <td align="center">Language</td>
-      <td>
-          <div>
-            <img alt="Java" width="30px" src="https://github.com/user-attachments/assets/d90fdb45-8f1f-4694-aa1a-324ce710bc4e" />
-            &nbsp;
-            <img alt="C" width="30px" src="https://github.com/user-attachments/assets/f19d04ec-76c7-4226-9b1e-7bc63430834a" />
-            &nbsp;
-            <img alt="Python" width="30px" src="https://github.com/user-attachments/assets/0da11989-8f9e-4858-978f-169fbd5a48d9" />
-          </div>
-      </td>
   </table>
 </div>
 <div align="center">
