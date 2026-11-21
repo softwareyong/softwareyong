@@ -6,7 +6,7 @@
     Airflow 기반 DataOps 파이프라인을 구축하고, 장애를 추적하며 데이터 플랫폼의 안정성을 높여가고 있습니다.
   </p>
 </div>
-
+<!--
 <div align="center">
   <h2>🛠 Development Stack</h2>
   <table>
@@ -68,7 +68,7 @@
 </div>
 <div align="center">
 
-<!--
+
  <div align="center">
 <a href="https://github.com/devxb/gitanimals">
 <img
